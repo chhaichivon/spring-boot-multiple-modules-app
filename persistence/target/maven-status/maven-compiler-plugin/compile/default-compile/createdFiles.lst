@@ -1,0 +1,4 @@
+com/chhaichivon/persistence/ProductService.class
+com/chhaichivon/persistence/repository/ArticleRepository.class
+com/chhaichivon/persistence/service/ArticleService.class
+com/chhaichivon/persistence/service/BaseService.class

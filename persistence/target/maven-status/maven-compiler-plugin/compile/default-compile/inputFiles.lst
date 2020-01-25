@@ -1,0 +1,4 @@
+/home/prasac-dev/Documents/dev/spring-boot-multiple-modules/persistence/src/main/java/com/chhaichivon/persistence/service/BaseService.java
+/home/prasac-dev/Documents/dev/spring-boot-multiple-modules/persistence/src/main/java/com/chhaichivon/persistence/service/ArticleService.java
+/home/prasac-dev/Documents/dev/spring-boot-multiple-modules/persistence/src/main/java/com/chhaichivon/persistence/repository/ArticleRepository.java
+/home/prasac-dev/Documents/dev/spring-boot-multiple-modules/persistence/src/main/java/com/chhaichivon/persistence/ProductService.java
